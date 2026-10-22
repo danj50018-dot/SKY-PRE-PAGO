@@ -1,195 +1,132 @@
 #EXTM3U8
+
 #EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais Abertos",Band HD
 http://64.31.23.207:80/59471019/60849037/324357.m3u8
-
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9084.m3u8
-
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9082.m3u8
-
 #EXTINF:-1 tvg-id="GRD" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="Canais Abertos",Globo
 http://vivlar.me:80/live/497238/KK8Kdy/131182.m3u8
-
 #EXTINF:-1 tvg-id="GRD" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="Canais Abertos",Globo FHD
 http://vivlar.me:80/live/497238/KK8Kdy/72025.m3u8
-
 #EXTINF:-1 tvg-id="REC" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Canais Abertos",Record TV HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/106095.m3u8
-
 #EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL 
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-
 #EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL HD
 http://vivlar.me:80/live/497238/KK8Kdy/72401.m3u8
-
 #EXTINF:-1 tvg-id="TED" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tv-brasil.png" group-title="Canais Aberto",TV BRASIL FHD
 http://45.177.114.115/TV_BRASIL/index.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24H",24H Bob Esponja Calça Quadrada
 http://vivlar.me:80/live/497238/KK8Kdy/138065.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="24H",24H Chaves
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169218.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Dragon Ball Z
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169226.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Todo Mundo Odeia o Cris
 http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Pica Pau
 http://vivlar.me:80/live/497238/KK8Kdy/136821.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Os Simpsons
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169244.m3u8
-
 #EXTINF:-1 tvg-id="24H" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="24H",24H Naruto Clássico
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_naruto.txt
-
 #EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World 
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13513.m3u8
-
 #EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8759.m3u8 
-
 #EXTINF:-1 tvg-id="DIW" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentario",Discovery World FHD
 http://vivlar.me:80/live/497238/KK8Kdy/71887.m3u8
-
 #EXTINF:-1 tvg-id="DIS" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentario",Discovery Channel
 http://vivlar.me:80/live/497238/KK8Kdy/71866.m3u8
-
 #EXTINF:-1 tvg-id="DIS" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentario",Discovery Channel HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/43928.m3u8
-
+http://64.31.23.207:80/59471019/60849037/297937.m3u8
 #EXTINF:-1 tvg-id="DIS" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentario",Discovery Channel FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/131176.m3u8
-
 #EXTINF:-1 tvg-id="DIT" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentario",Discovery Theater
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13510.m3u8
-
 #EXTINF:-1 tvg-id="DIT" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentario",Discovery Theater HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8751.m3u8
-
 #EXTINF:-1 tvg-id="DIT" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentario",Discovery Theater FHD
 http://64.31.23.207:80/59471019/60849037/297954.m3u8
-
 #EXTINF:-1 tvg-id="DTU" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentario",Discovery Turbo
 http://64.31.23.207:80/59471019/60849037/297944.m3u8
-
 #EXTINF:-1 tvg-id="DTU" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentario",Discovery Turbo FHD
 http://64.31.23.207:80/59471019/60849037/297942.m3u8
-
 #EXTINF:-1 tvg-id="DSC" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentario",Discovery Science
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8746.m3u8
-
 #EXTINF:-1 tvg-id="DSC" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentario",Discovery Science FHD
 http://64.31.23.207:80/59471019/60849037/297951.m3u8
-
 #EXTINF:-1 tvg-id="HIS" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentario",History HD
 http://46.151.196.223:14410
-
 #EXTINF:-1 tvg-id="HIS" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentario",History FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/304494.m3u8
-
 #EXTINF:-1 site_id="CAR" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network 
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13504.m3u8
-
 #EXTINF:-1 site_id="CAR" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/125439.m3u8
-
 #EXTINF:-1 site_id="CAR" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network FHD
 http://64.31.23.207:80/59471019/60849037/1882622.m3u8
-
-#EXTINF:-1 tvg-id="http://www.meuguia.tv" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Infantil",Cartoonito
 http://vivlar.me:80/live/497238/KK8Kdy/71815.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito HD
 http://vivlar.me:80/live/497238/KK8Kdy/71814.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito FHD
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito FHD
 http://64.31.23.207:80/59471019/60849037/1882631.m3u8
-
 #EXTINF:-1 tvg-id="Cartoonito@br" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Infantil",Adult Swim 
 http://vivlar.me:80/live/497238/KK8Kdy/251959.m3u8
-
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES",AXN 
 http://79.127.238.228:14563
-
 #EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Combate " tvg-logo="https://mondrian.claro.com.br/channels/inverse/combate.png" group-title="ESPORTES", COMBATE (S46)
 http://46.151.196.223:14468
-
 #EXTINF:-1 tvg-id="WBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES",Warner Channel
 http://79.127.238.228:14647
-
 #EXTINF:-1 tvg-id="WBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES",Warner Channel FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9219.m3u8
-
 #EXTINF:-1  site_id="MPX" tvg-logo=" https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Series",Megapix
 http://vivlar.me:80/live/497238/KK8Kdy/131204.m3u8
-
 #EXTINF:-1 tvg-id="MPX" tvg-logo="https://pbs.twimg.com/profile_images/1686344924143251456/uQ5ae0-8_400x400.jpg" group-title="Filmes e Series",Megapix HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8962.m3u8
-
+http://vivlar.me:80/live/497238/KK8Kdy/72169.m3u8
 #EXTINF:-1 tvg-id="MPX" tvg-logo="https://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="Filmes e Series",Megapix FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/8961.m3u8
-
 #EXTINF:-1 tvg-id="TC2" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Series",Telecine Action
 http://vivlar.me:80/live/497238/KK8Kdy/90666.m3u8
-
 #EXTINF:-1 tvg-id="TC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filmes e Series",Telecine Action HD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30135.m3u8
-
+http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9127.m3u8
 #EXTINF:-1 tvg-id="TC2" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Series",Telecine Action FHD
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/94375.m3u8
-
+http://vivlar.me:80/live/497238/KK8Kdy/90668.m3u8
 #EXTINF:-1 tvg-id="TC4" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/24536.m3u8
-
 #EXTINF:-1 tvg-id="TC4" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30141.m3u8
-
 #EXTINF:-1 tvg-id="TC4" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca FHD
 http://vivlar.me:80/live/497238/KK8Kdy/72358.m3u8
-
 #EXTINF:-1 tvg-id="TC1" tvg-logo="https://s2-globo-play.glbimg.com/BdeangvCtGds2CWxH7Kee1-Ydxk=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/kXZuy0ffJyrWsX6WzOReEdFRyYM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/B/T/AfE0JCSeaBKFk3A07o9w/premium.png" group-title="Filmes e Series",Telecine Premium
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/24537.m3u8
-
 #EXTINF:-1 tvg-id="TC1" tvg-logo=" https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Series", Telecine Premium HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9134.m3u8
-
 #EXTINF:-1 tvg-id="TC1" tvg-logo=" https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Series", Telecine Premium FHD
 http://vivlar.me:80/live/497238/KK8Kdy/72362.m3u8
-
 #EXTINF:-1 tvg-id="TC5" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Cult
 http://vivlar.me:80/live/497238/KK8Kdy/72353.m3u8
-
 #EXTINF:-1 tvg-id="TC5" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Cult HD
 http://vivlar.me:80/live/497238/KK8Kdy/90664.m3u8
-
 #EXTINF:-1 tvg-id="TC5" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Cult FHD
 http://vivlar.me:80/live/497238/KK8Kdy/72350.m3u8
-
 #EXTINF:-1 tvg-id="TC3" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Touch
 http://vivlar.me:80/live/497238/KK8Kdy/72369.m3u8
-
 #EXTINF:-1 tvg-id="TC3" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Touch HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9136.m3u8
-
 #EXTINF:-1 tvg-id="TC3" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Series",Telecine Touch FHD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/94380.m3u8
-
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Series",TNT
-http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/594021.m3u8
-
+http://vivlar.me:80/live/497238/KK8Kdy/72379.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Series",TNT HD
 http://vivlar.me:80/live/497238/KK8Kdy/72378.m3u8
-
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Series",TNT FHD
-http://vivlar.me:80/live/497238/KK8Kdy/72376.m3u8
-
+http://vivlar.me:80/live/497238/KK8Kdy/72375.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="4K",TNT 4K
 http://vivlar.me:80/live/497238/KK8Kdy/72377.m3u8
