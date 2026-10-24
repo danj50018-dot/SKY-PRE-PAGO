@@ -1,4 +1,5 @@
 #EXTM3U8
+
 #EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais Abertos",Band HD
 http://64.31.23.207:80/59471019/60849037/324357.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT HD
@@ -330,5 +331,13 @@ http://vivlar.me:80/live/497238/KK8Kdy/72337.m3u8
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9117.m3u8
 #EXTINF:-1 tvg-id="HAL" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Series",Studio Universal FHD
 http://vivlar.me:80/live/497238/KK8Kdy/72334.m3u8
-
-
+#EXTINF:-1 tvg-id="HAL" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="4K",Studio Universal 4K
+http://vivlar.me:80/live/497238/KK8Kdy/103467.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Series",Universal TV
+http://vivlar.me:80/live/497238/KK8Kdy/72422.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Series",Universal TV HD
+http://vivlar.me:80/live/497238/KK8Kdy/72421.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Series",Universal TV FHD
+http://vivlar.me:80/live/497238/KK8Kdy/72419.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="4K",Universal TV 4K
+http://vivlar.me:80/live/497238/KK8Kdy/90632.m3u8
