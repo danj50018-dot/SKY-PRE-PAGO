@@ -1,5 +1,4 @@
 #EXTM3U8
-
 #EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band.png" group-title="Canais Abertos",Band HD
 http://64.31.23.207:80/59471019/60849037/324357.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sbt.png" group-title="Canais Abertos",SBT HD
@@ -200,7 +199,7 @@ http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13073.m3u8
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13072.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 
 http://45.177.114.114/HISTORY_2/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Nick
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Nick HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ 
@@ -301,11 +300,11 @@ http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/108315.m3u8
 http://vivlar.me:80/live/497238/KK8Kdy/180159.m3u8
 #EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",Premiere Clubes HD
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/94194.m3u8
-#EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV
+#EXTINF:-1 tvg-id="SPO" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV
 http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9111.m3u8
-#EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV 2
+#EXTINF:-1 tvg-id="SP2" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV 2
 http://64.31.23.207:80/59471019/60849037/3460203.m3u8
-#EXTINF:-1 tvg-id="Band%20Rio" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-id="SP3" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="ESPORTES",SporTV 3
 http://vivlar.me:80/live/497238/KK8Kdy/131113.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Series",Sony
 http://vivlar.me:80/live/497238/KK8Kdy/71827.m3u8
@@ -341,3 +340,4 @@ http://vivlar.me:80/live/497238/KK8Kdy/72421.m3u8
 http://vivlar.me:80/live/497238/KK8Kdy/72419.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="4K",Universal TV 4K
 http://vivlar.me:80/live/497238/KK8Kdy/90632.m3u8
+
