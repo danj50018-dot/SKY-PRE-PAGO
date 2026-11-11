@@ -17,7 +17,6 @@
   </channel>
   <channel id="Adult Swim">
     <display-name lang="en">Adult Swim</display-name>
-    <icon src="https://www.adultswim.com/img/as-logo.svg" />
     <url>http://www.adultswim.com</url>
   </channel>
   <channel id="AnimalPlanet.br">
@@ -122,7 +121,6 @@
   </channel>
   <channel id="Cartoonito">
     <display-name lang="en">Cartoonito</display-name>
-    <icon src="https://tv.assets.pressassociation.io/d1221056-cab2-53b7-9b30-6103d65986f5.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
   <channel id="Cartoonito.br">
