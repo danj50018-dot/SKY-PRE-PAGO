@@ -48235,7 +48235,7 @@ Especialistas dão dicas úteis do que fazer na cozinha, como saber se o peixe e
     <category lang="pt">Filme</category>
     <category lang="pt">Suspense</category>
   </programme>
-  <programme start="20261111122500 -0300" stop="20261111141300 -0300" channel="Cinemax">
+  <programme start="20261111123300 -0300" stop="20261111141300 -0300" channel="Cinemax">
     <title lang="pt">Gattaca - A Experiência Genética</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ficção</category>
@@ -105944,35 +105944,365 @@ As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades,
     <category lang="pt">Séries</category>
     <category lang="pt">Infantil</category>
   </programme>
-  <programme start="20261117000100 -0300" stop="20261117040100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117000100 -0300" stop="20261117002400 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
   </programme>
-  <programme start="20261117040100 -0300" stop="20261117080100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117002400 -0300" stop="20261117004600 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
   </programme>
-  <programme start="20261117080100 -0300" stop="20261117120100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117004600 -0300" stop="20261117010900 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
   </programme>
-  <programme start="20261117120100 -0300" stop="20261117160100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117010900 -0300" stop="20261117013200 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
   </programme>
-  <programme start="20261117160100 -0300" stop="20261117200100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117013200 -0300" stop="20261117015400 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
   </programme>
-  <programme start="20261117200100 -0300" stop="20261118000100 -0300" channel="Gloob">
-    <title lang="pt">Programação Gloob</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261117015400 -0300" stop="20261117020600 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117020600 -0300" stop="20261117021800 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117021800 -0300" stop="20261117023000 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117023000 -0300" stop="20261117024200 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117024200 -0300" stop="20261117025400 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117025400 -0300" stop="20261117030700 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117030700 -0300" stop="20261117032000 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117032000 -0300" stop="20261117033200 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117033200 -0300" stop="20261117034500 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117034500 -0300" stop="20261117040800 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117040800 -0300" stop="20261117043100 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117043100 -0300" stop="20261117045300 -0300" channel="Gloob">
+    <title lang="pt">Dragões - Pilotos De Berk</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117045300 -0300" stop="20261117051700 -0300" channel="Gloob">
+    <title lang="pt">Dragões - Pilotos De Berk</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117051700 -0300" stop="20261117052800 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117052800 -0300" stop="20261117054000 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117054000 -0300" stop="20261117055100 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117055100 -0300" stop="20261117060300 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117060300 -0300" stop="20261117061400 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117061400 -0300" stop="20261117062600 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117062600 -0300" stop="20261117063700 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117063700 -0300" stop="20261117064900 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117064900 -0300" stop="20261117070000 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117070000 -0300" stop="20261117071200 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117071200 -0300" stop="20261117072300 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117072300 -0300" stop="20261117073500 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117073500 -0300" stop="20261117074600 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117074600 -0300" stop="20261117075800 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117075800 -0300" stop="20261117080900 -0300" channel="Gloob">
+    <title lang="pt">Alvinnn!!! E Os Esquilos</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117080900 -0300" stop="20261117083200 -0300" channel="Gloob">
+    <title lang="pt">Madagascar: Pequenos Selvagens</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117083200 -0300" stop="20261117085500 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117085500 -0300" stop="20261117091800 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117091800 -0300" stop="20261117094100 -0300" channel="Gloob">
+    <title lang="pt">Dragões - Pilotos De Berk</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117094100 -0300" stop="20261117100400 -0300" channel="Gloob">
+    <title lang="pt">Árvore Familiar Dos Croods, A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117100400 -0300" stop="20261117102700 -0300" channel="Gloob">
+    <title lang="pt">Árvore Familiar Dos Croods, A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117102700 -0300" stop="20261117103900 -0300" channel="Gloob">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117103900 -0300" stop="20261117110200 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117110200 -0300" stop="20261117112500 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117112500 -0300" stop="20261117114700 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117114700 -0300" stop="20261117121000 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117121000 -0300" stop="20261117123400 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117123400 -0300" stop="20261117125700 -0300" channel="Gloob">
+    <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117125700 -0300" stop="20261117130200 -0300" channel="Gloob">
+    <title lang="pt">Boletim Extraordinário Do Tobby</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117130200 -0300" stop="20261117132500 -0300" channel="Gloob">
+    <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117132500 -0300" stop="20261117150000 -0300" channel="Gloob">
+    <title lang="pt">Cine Gloob: Uma Floresta Muito Louca</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117150000 -0300" stop="20261117151500 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117151500 -0300" stop="20261117152700 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117152700 -0300" stop="20261117153800 -0300" channel="Gloob">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117153800 -0300" stop="20261117160100 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117160100 -0300" stop="20261117162400 -0300" channel="Gloob">
+    <title lang="pt">As Aventuras Do Gato De Botas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117162400 -0300" stop="20261117164600 -0300" channel="Gloob">
+    <title lang="pt">Dragões - Pilotos De Berk</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117164600 -0300" stop="20261117170900 -0300" channel="Gloob">
+    <title lang="pt">Dragões - Pilotos De Berk</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117170900 -0300" stop="20261117173200 -0300" channel="Gloob">
+    <title lang="pt">Árvore Familiar Dos Croods, A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117173200 -0300" stop="20261117175400 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117175400 -0300" stop="20261117181700 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117181700 -0300" stop="20261117183900 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117183900 -0300" stop="20261117190200 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117190200 -0300" stop="20261117192800 -0300" channel="Gloob">
+    <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117192800 -0300" stop="20261117195300 -0300" channel="Gloob">
+    <title lang="pt">D.P.A. - Detetives Do Prédio A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117195300 -0300" stop="20261117201700 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117201700 -0300" stop="20261117204000 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117204000 -0300" stop="20261117210200 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261117210200 -0300" stop="20261117220600 -0300" channel="Gloob">
+    <title lang="pt">Cine Gloob: Miraculous World: Nova Iorque, Heróis Unidos</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117220600 -0300" stop="20261117223000 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117223000 -0300" stop="20261117225300 -0300" channel="Gloob">
+    <title lang="pt">Árvore Familiar Dos Croods, A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117225300 -0300" stop="20261117231600 -0300" channel="Gloob">
+    <title lang="pt">Árvore Familiar Dos Croods, A</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20261117231600 -0300" stop="20261117233900 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20261117233900 -0300" stop="20261118000100 -0300" channel="Gloob">
+    <title lang="pt">Programação do Canal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
   </programme>
   <programme start="20261108162500 +0000" stop="20261108164800 +0000" channel="Gloob.br">
     <desc lang="pt">S6 E17 — A Fada dos Bons Sonhos
@@ -117101,9 +117431,9 @@ Pato vai embora e todos se despedem. O avião faz um voo muito rápido e ele já
     <category lang="pt">Drama</category>
   </programme>
   <programme start="20261111140500 -0300" stop="20261111151000 -0300" channel="HBO">
-    <title lang="pt">HBO Movies</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Cinema</category>
+    <title lang="pt">A Idade Dourada</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
   </programme>
   <programme start="20261111151000 -0300" stop="20261111181000 -0300" channel="HBO">
     <title lang="pt">Batman</title>
@@ -173814,32 +174144,32 @@ Dalcides Biscalquim apresenta este programa de reflexão, histórias de vida, ac
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20261111204500 -0300" stop="20261111214500 -0300" channel="SBT">
+  <programme start="20261111204500 -0300" stop="20261111220000 -0300" channel="SBT">
     <title lang="pt">Amor Valente</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261111214500 -0300" stop="20261111221500 -0300" channel="SBT">
-    <title lang="pt">Sessão +SBT</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261111221500 -0300" stop="20261111234500 -0300" channel="SBT">
+  <programme start="20261111220000 -0300" stop="20261111230000 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261111234500 -0300" stop="20261112004500 -0300" channel="SBT">
+  <programme start="20261111230000 -0300" stop="20261112000000 -0300" channel="SBT">
+    <title lang="pt">The Voice Brasil - Edição Especial</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20261112000000 -0300" stop="20261112010000 -0300" channel="SBT">
     <title lang="pt">The Noite com Danilo Gentili</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261112004500 -0300" stop="20261112011500 -0300" channel="SBT">
+  <programme start="20261112010000 -0300" stop="20261112013000 -0300" channel="SBT">
     <title lang="pt">Operação Mesquita</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Entrevista</category>
   </programme>
-  <programme start="20261112011500 -0300" stop="20261112060000 -0300" channel="SBT">
+  <programme start="20261112013000 -0300" stop="20261112060000 -0300" channel="SBT">
     <title lang="pt">SBT Notícias</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
@@ -173964,37 +174294,112 @@ Dalcides Biscalquim apresenta este programa de reflexão, histórias de vida, ac
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20261113204500 -0300" stop="20261113214500 -0300" channel="SBT">
+  <programme start="20261113204500 -0300" stop="20261113213000 -0300" channel="SBT">
     <title lang="pt">Amor Valente</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261113214500 -0300" stop="20261113223000 -0300" channel="SBT">
+  <programme start="20261113213000 -0300" stop="20261113220000 -0300" channel="SBT">
     <title lang="pt">Sessão +SBT</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261113223000 -0300" stop="20261114060000 -0300" channel="SBT">
-    <title lang="pt">Teleton 2026 - Ao Vivo</title>
+  <programme start="20261113220000 -0300" stop="20261113231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261114060000 -0300" stop="20261115000000 -0300" channel="SBT">
-    <title lang="pt">Teleton 2026 - Ao Vivo</title>
+  <programme start="20261113231500 -0300" stop="20261114001500 -0300" channel="SBT">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20261114001500 -0300" stop="20261114011500 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Humor</category>
+  </programme>
+  <programme start="20261114011500 -0300" stop="20261114014500 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20261114014500 -0300" stop="20261114060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20261114060000 -0300" stop="20261114070000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20261114070000 -0300" stop="20261114110000 -0300" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20261114110000 -0300" stop="20261114124000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20261114124000 -0300" stop="20261114140000 -0300" channel="SBT">
+    <title lang="pt">Clube do Chaves</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Humor</category>
+  </programme>
+  <programme start="20261114140000 -0300" stop="20261114150000 -0300" channel="SBT">
+    <title lang="pt">Eita Lucas!</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Game Show</category>
+  </programme>
+  <programme start="20261114150000 -0300" stop="20261114174500 -0300" channel="SBT">
+    <title lang="pt">Sessão +SBT Show</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261115000000 -0300" stop="20261115010000 -0300" channel="SBT">
-    <title lang="pt">Programa do João</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115010000 -0300" stop="20261115020000 -0300" channel="SBT">
+  <programme start="20261114174500 -0300" stop="20261114192000 -0300" channel="SBT">
     <title lang="pt">Sabadão de Todos</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261115020000 -0300" stop="20261115060000 -0300" channel="SBT">
+  <programme start="20261114192000 -0300" stop="20261114194500 -0300" channel="SBT">
+    <title lang="pt">SBT Cidades</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20261114194500 -0300" stop="20261114204500 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20261114204500 -0300" stop="20261114211500 -0300" channel="SBT">
+    <title lang="pt">Sessão +SBT</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261114211500 -0300" stop="20261114223000 -0300" channel="SBT">
+    <title lang="pt">Bake Off Brasil: Mão na Massa</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20261114223000 -0300" stop="20261115001500 -0300" channel="SBT">
+    <title lang="pt">Viva a Noite</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261115001500 -0300" stop="20261115011500 -0300" channel="SBT">
+    <title lang="pt">Programa do João</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261115011500 -0300" stop="20261115023000 -0300" channel="SBT">
+    <title lang="pt">Sabadão de Todos</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261115023000 -0300" stop="20261115060000 -0300" channel="SBT">
     <title lang="pt">SBT Notícias</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
@@ -174079,18 +174484,13 @@ Dalcides Biscalquim apresenta este programa de reflexão, histórias de vida, ac
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116134500 -0300" stop="20261116141500 -0300" channel="SBT">
+  <programme start="20261116134500 -0300" stop="20261116143000 -0300" channel="SBT">
     <title lang="pt">Marisol</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261116141500 -0300" stop="20261116144500 -0300" channel="SBT">
+  <programme start="20261116143000 -0300" stop="20261116153000 -0300" channel="SBT">
     <title lang="pt">Marimar</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Novela</category>
-  </programme>
-  <programme start="20261116144500 -0300" stop="20261116153000 -0300" channel="SBT">
-    <title lang="pt">A Desalmada</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
@@ -174159,32 +174559,27 @@ Dalcides Biscalquim apresenta este programa de reflexão, histórias de vida, ac
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261117134500 -0300" stop="20261117141500 -0300" channel="SBT">
+  <programme start="20261117134500 -0300" stop="20261117143000 -0300" channel="SBT">
     <title lang="pt">Marisol</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261117141500 -0300" stop="20261117144500 -0300" channel="SBT">
+  <programme start="20261117143000 -0300" stop="20261117153000 -0300" channel="SBT">
     <title lang="pt">Marimar</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261117144500 -0300" stop="20261117153000 -0300" channel="SBT">
-    <title lang="pt">A Desalmada</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Novela</category>
-  </programme>
-  <programme start="20261117153000 -0300" stop="20261117164500 -0300" channel="SBT">
+  <programme start="20261117153000 -0300" stop="20261117170000 -0300" channel="SBT">
     <title lang="pt">Fofocalizando</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Informativo</category>
   </programme>
-  <programme start="20261117164500 -0300" stop="20261117190000 -0300" channel="SBT">
-    <title lang="pt">Programação do Canal</title>
+  <programme start="20261117170000 -0300" stop="20261117181500 -0300" channel="SBT">
+    <title lang="pt">O Que a Vida Me Roubou</title>
     <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+    <category lang="pt">Novela</category>
   </programme>
-  <programme start="20261117190000 -0300" stop="20261117194500 -0300" channel="SBT">
+  <programme start="20261117181500 -0300" stop="20261117194500 -0300" channel="SBT">
     <title lang="pt">SBT Cidades</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
@@ -178267,62 +178662,57 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Filme</category>
     <category lang="pt">Aventura</category>
   </programme>
-  <programme start="20261111110000 -0300" stop="20261111123000 -0300" channel="Sony">
-    <title lang="pt">MIB - Homens de Preto 2</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20261111123000 -0300" stop="20261111141500 -0300" channel="Sony">
-    <title lang="pt">Hércules</title>
+  <programme start="20261111120000 -0300" stop="20261111135000 -0300" channel="Sony">
+    <title lang="pt">Jumanji</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Aventura</category>
   </programme>
-  <programme start="20261111141500 -0300" stop="20261111155000 -0300" channel="Sony">
-    <title lang="pt">Premonição 2</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
+  <programme start="20261111135000 -0300" stop="20261111142000 -0300" channel="Sony">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261111155000 -0300" stop="20261111180000 -0300" channel="Sony">
-    <title lang="pt">Deuses do Egito</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20261111180000 -0300" stop="20261111202500 -0300" channel="Sony">
-    <title lang="pt">A Mulher Rei</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20261111202500 -0300" stop="20261111222000 -0300" channel="Sony">
-    <title lang="pt">O Protetor: Capítulo Final</title>
+  <programme start="20261111142000 -0300" stop="20261111170000 -0300" channel="Sony">
+    <title lang="pt">Armageddon</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261111222000 -0300" stop="20261112004000 -0300" channel="Sony">
-    <title lang="pt">Gigantes de Aço</title>
+  <programme start="20261111170000 -0300" stop="20261111200000 -0300" channel="Sony">
+    <title lang="pt">John Wick 4: Baba Yaga</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261112004000 -0300" stop="20261112022000 -0300" channel="Sony">
-    <title lang="pt">A Volta do Todo Poderoso</title>
+  <programme start="20261111200000 -0300" stop="20261111215000 -0300" channel="Sony">
+    <title lang="pt">Quarta de Cinema: Bem Vindo à Selva</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112022000 -0300" stop="20261112025000 -0300" channel="Sony">
+  <programme start="20261111215000 -0300" stop="20261111233000 -0300" channel="Sony">
+    <title lang="pt">Quarta de Cinema: Segurança de Shopping 2</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261111233000 -0300" stop="20261112021000 -0300" channel="Sony">
+    <title lang="pt">Armageddon</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20261112021000 -0300" stop="20261112024000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112025000 -0300" stop="20261112032000 -0300" channel="Sony">
+  <programme start="20261112024000 -0300" stop="20261112031000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112032000 -0300" stop="20261112034500 -0300" channel="Sony">
+  <programme start="20261112031000 -0300" stop="20261112034000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112034500 -0300" stop="20261112041000 -0300" channel="Sony">
+  <programme start="20261112034000 -0300" stop="20261112041000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
@@ -178352,55 +178742,50 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261112075000 -0300" stop="20261112084500 -0300" channel="Sony">
-    <title lang="pt">Bettys Diagnose</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20261112084500 -0300" stop="20261112091500 -0300" channel="Sony">
+  <programme start="20261112075000 -0300" stop="20261112082000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261112091500 -0300" stop="20261112094500 -0300" channel="Sony">
+  <programme start="20261112082000 -0300" stop="20261112085000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261112094500 -0300" stop="20261112101500 -0300" channel="Sony">
+  <programme start="20261112085000 -0300" stop="20261112092000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261112101500 -0300" stop="20261112104500 -0300" channel="Sony">
+  <programme start="20261112092000 -0300" stop="20261112095000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261112104500 -0300" stop="20261112111500 -0300" channel="Sony">
+  <programme start="20261112095000 -0300" stop="20261112102000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112111500 -0300" stop="20261112114500 -0300" channel="Sony">
+  <programme start="20261112102000 -0300" stop="20261112105000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112114500 -0300" stop="20261112121500 -0300" channel="Sony">
+  <programme start="20261112105000 -0300" stop="20261112112000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112121500 -0300" stop="20261112124500 -0300" channel="Sony">
+  <programme start="20261112112000 -0300" stop="20261112115000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112124500 -0300" stop="20261112143000 -0300" channel="Sony">
-    <title lang="pt">Operação Presente</title>
+  <programme start="20261112115000 -0300" stop="20261112143000 -0300" channel="Sony">
+    <title lang="pt">Armageddon</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
+    <category lang="pt">Ação</category>
   </programme>
   <programme start="20261112143000 -0300" stop="20261112150000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
@@ -178422,13 +178807,13 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112163000 -0300" stop="20261112181500 -0300" channel="Sony">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20261112163000 -0300" stop="20261112181000 -0300" channel="Sony">
+    <title lang="pt">Segurança de Shopping 2</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261112181500 -0300" stop="20261112200000 -0300" channel="Sony">
-    <title lang="pt">O Atirador: O Fim de Um Assassino</title>
+  <programme start="20261112181000 -0300" stop="20261112200000 -0300" channel="Sony">
+    <title lang="pt">O Predador</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
@@ -178437,40 +178822,45 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261112215000 -0300" stop="20261112233500 -0300" channel="Sony">
-    <title lang="pt">Quinta em Chamas: Arraste-me para o Inferno</title>
+  <programme start="20261112215000 -0300" stop="20261112232500 -0300" channel="Sony">
+    <title lang="pt">Quinta em Chamas: A Caçada</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
+    <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261112233500 -0300" stop="20261113002500 -0300" channel="Sony">
-    <title lang="pt">Mamonas Assassinas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20261113002500 -0300" stop="20261113021000 -0300" channel="Sony">
-    <title lang="pt">Arraste-Me para o Inferno</title>
+  <programme start="20261112232500 -0300" stop="20261113011500 -0300" channel="Sony">
+    <title lang="pt">O Alvo 2</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
+    <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261113021000 -0300" stop="20261113024000 -0300" channel="Sony">
+  <programme start="20261113011500 -0300" stop="20261113014500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113024000 -0300" stop="20261113031000 -0300" channel="Sony">
+  <programme start="20261113014500 -0300" stop="20261113021500 -0300" channel="Sony">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261113021500 -0300" stop="20261113024500 -0300" channel="Sony">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261113024500 -0300" stop="20261113031000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
   <programme start="20261113031000 -0300" stop="20261113034000 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
+    <category lang="pt">Humor</category>
   </programme>
   <programme start="20261113034000 -0300" stop="20261113041000 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
+    <category lang="pt">Humor</category>
   </programme>
   <programme start="20261113041000 -0300" stop="20261113044000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
@@ -178518,9 +178908,9 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Humor</category>
   </programme>
   <programme start="20261113103000 -0300" stop="20261113110000 -0300" channel="Sony">
-    <title lang="pt">The Nanny</title>
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
-    <category lang="pt">Humor</category>
+    <category lang="pt">Comédia</category>
   </programme>
   <programme start="20261113110000 -0300" stop="20261113113000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
@@ -178537,85 +178927,85 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113122000 -0300" stop="20261113124500 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261113124500 -0300" stop="20261113142500 -0300" channel="Sony">
-    <title lang="pt">A Família Addams 2: Pé na Estrada</title>
+  <programme start="20261113122000 -0300" stop="20261113140500 -0300" channel="Sony">
+    <title lang="pt">Um Natal Muito, Muito Louco</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
+    <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113142500 -0300" stop="20261113145500 -0300" channel="Sony">
+  <programme start="20261113140500 -0300" stop="20261113143500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113145500 -0300" stop="20261113152500 -0300" channel="Sony">
+  <programme start="20261113143500 -0300" stop="20261113150500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113152500 -0300" stop="20261113155500 -0300" channel="Sony">
+  <programme start="20261113150500 -0300" stop="20261113153500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113155500 -0300" stop="20261113162500 -0300" channel="Sony">
+  <programme start="20261113153500 -0300" stop="20261113160500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261113162500 -0300" stop="20261113184500 -0300" channel="Sony">
-    <title lang="pt">O Ataque</title>
+  <programme start="20261113160500 -0300" stop="20261113175500 -0300" channel="Sony">
+    <title lang="pt">O Predador</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261113184500 -0300" stop="20261113220000 -0300" channel="Sony">
-    <title lang="pt">À Espera de um Milagre</title>
+  <programme start="20261113175500 -0300" stop="20261113194000 -0300" channel="Sony">
+    <title lang="pt">Rápida Vingança</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20261113194000 -0300" stop="20261113220000 -0300" channel="Sony">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
   </programme>
   <programme start="20261113220000 -0300" stop="20261113230000 -0300" channel="Sony">
     <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
   </programme>
-  <programme start="20261113230000 -0300" stop="20261113235000 -0300" channel="Sony">
+  <programme start="20261113230000 -0300" stop="20261114000000 -0300" channel="Sony">
     <title lang="pt">Shaking The Bar</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
   </programme>
-  <programme start="20261113235000 -0300" stop="20261114004000 -0300" channel="Sony">
-    <title lang="pt">Mamonas Assassinas</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20261114004000 -0300" stop="20261114021500 -0300" channel="Sony">
-    <title lang="pt">Goosebumps 2: Halloween Assombrado</title>
+  <programme start="20261114000000 -0300" stop="20261114014000 -0300" channel="Sony">
+    <title lang="pt">Segurança de Shopping 2</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
+    <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261114021500 -0300" stop="20261114024500 -0300" channel="Sony">
+  <programme start="20261114014000 -0300" stop="20261114021000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261114024500 -0300" stop="20261114031500 -0300" channel="Sony">
+  <programme start="20261114021000 -0300" stop="20261114024000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261114031500 -0300" stop="20261114034500 -0300" channel="Sony">
+  <programme start="20261114024000 -0300" stop="20261114031000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261114034500 -0300" stop="20261114041000 -0300" channel="Sony">
+  <programme start="20261114031000 -0300" stop="20261114034000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261114034000 -0300" stop="20261114041000 -0300" channel="Sony">
+    <title lang="pt">The Nanny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Humor</category>
   </programme>
   <programme start="20261114041000 -0300" stop="20261114044000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
@@ -178642,300 +179032,280 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261114074000 -0300" stop="20261114081000 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries</category>
+  <programme start="20261114074000 -0300" stop="20261114092500 -0300" channel="Sony">
+    <title lang="pt">Um Natal Muito, Muito Louco</title>
+    <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261114081000 -0300" stop="20261114084000 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
+  <programme start="20261114092500 -0300" stop="20261114120500 -0300" channel="Sony">
+    <title lang="pt">2012</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261114084000 -0300" stop="20261114101500 -0300" channel="Sony">
-    <title lang="pt">Goosebumps 2: Halloween Assombrado</title>
+  <programme start="20261114120500 -0300" stop="20261114135500 -0300" channel="Sony">
+    <title lang="pt">Jumanji</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Aventura</category>
   </programme>
-  <programme start="20261114101500 -0300" stop="20261114124500 -0300" channel="Sony">
-    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+  <programme start="20261114135500 -0300" stop="20261114161500 -0300" channel="Sony">
+    <title lang="pt">Duro de Matar 4.0</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261114124500 -0300" stop="20261114160000 -0300" channel="Sony">
-    <title lang="pt">À Espera de um Milagre</title>
+  <programme start="20261114161500 -0300" stop="20261114180000 -0300" channel="Sony">
+    <title lang="pt">Rápida Vingança</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20261114180000 -0300" stop="20261114200000 -0300" channel="Sony">
+    <title lang="pt">Especial Velocidade em Jogo: Golpe Baixo</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261114200000 -0300" stop="20261114222000 -0300" channel="Sony">
+    <title lang="pt">Especial Velocidade em Jogo: Gran Turismo - De Jogador a Corredor</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20261114222000 -0300" stop="20261115004000 -0300" channel="Sony">
+    <title lang="pt">Especial Velocidade em Jogo: Um Sonho Possível</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261114160000 -0300" stop="20261114174500 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Difícil de Matar</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20261114174500 -0300" stop="20261114193500 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Nico, Acima da Lei</title>
+  <programme start="20261115004000 -0300" stop="20261115031000 -0300" channel="Sony">
+    <title lang="pt">Especial Velocidade em Jogo: Karatê Kid</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261114193500 -0300" stop="20261114215500 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: O Fugitivo</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20261114215500 -0300" stop="20261114235500 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Queima de Arquivo</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20261114235500 -0300" stop="20261115014000 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Difícil de Matar</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20261115014000 -0300" stop="20261115023500 -0300" channel="Sony">
+  <programme start="20261115031000 -0300" stop="20261115040500 -0300" channel="Sony">
     <title lang="pt">Grey's Anatomy</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261115023500 -0300" stop="20261115033000 -0300" channel="Sony">
-    <title lang="pt">Grey's Anatomy</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20261115033000 -0300" stop="20261115040000 -0300" channel="Sony">
+  <programme start="20261115040500 -0300" stop="20261115043500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261115040000 -0300" stop="20261115043000 -0300" channel="Sony">
+  <programme start="20261115043500 -0300" stop="20261115050500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261115043000 -0300" stop="20261115050000 -0300" channel="Sony">
-    <title lang="pt">The Nanny</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Humor</category>
-  </programme>
-  <programme start="20261115050000 -0300" stop="20261115060000 -0300" channel="Sony">
+  <programme start="20261115050500 -0300" stop="20261115060000 -0300" channel="Sony">
     <title lang="pt">The Night Shift</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261115060000 -0300" stop="20261115065500 -0300" channel="Sony">
+  <programme start="20261115060000 -0300" stop="20261115070000 -0300" channel="Sony">
     <title lang="pt">Grey's Anatomy</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261115065500 -0300" stop="20261115072500 -0300" channel="Sony">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  <programme start="20261115070000 -0300" stop="20261115080000 -0300" channel="Sony">
+    <title lang="pt">Grey's Anatomy</title>
     <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20261115080000 -0300" stop="20261115095000 -0300" channel="Sony">
+    <title lang="pt">Goosebumps: Monstros e Arrepios</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20261115095000 -0300" stop="20261115115000 -0300" channel="Sony">
+    <title lang="pt">Golpe Baixo</title>
+    <category lang="pt">Filme</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261115072500 -0300" stop="20261115090500 -0300" channel="Sony">
-    <title lang="pt">A Família Addams 2: Pé na Estrada</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20261115090500 -0300" stop="20261115114000 -0300" channel="Sony">
-    <title lang="pt">007 Contra Spectre</title>
+  <programme start="20261115115000 -0300" stop="20261115142000 -0300" channel="Sony">
+    <title lang="pt">Karate Kid</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261115114000 -0300" stop="20261115133000 -0300" channel="Sony">
-    <title lang="pt">Nico - Acima da Lei</title>
+  <programme start="20261115142000 -0300" stop="20261115164000 -0300" channel="Sony">
+    <title lang="pt">Um Sonho Possível</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20261115164000 -0300" stop="20261115182000 -0300" channel="Sony">
+    <title lang="pt">A Fera</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261115133000 -0300" stop="20261115160000 -0300" channel="Sony">
-    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+  <programme start="20261115182000 -0300" stop="20261115203000 -0300" channel="Sony">
+    <title lang="pt">O Retorno do Dragão - A Cidade Perdida</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261115160000 -0300" stop="20261115180000 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Queima de Arquivo</title>
+  <programme start="20261115203000 -0300" stop="20261115221500 -0300" channel="Sony">
+    <title lang="pt">De Volta Ao Jogo</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261115180000 -0300" stop="20261115202000 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: O Fugitivo</title>
+  <programme start="20261115221500 -0300" stop="20261115235500 -0300" channel="Sony">
+    <title lang="pt">A Fera</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261115202000 -0300" stop="20261115222000 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: O Especialista</title>
+  <programme start="20261115235500 -0300" stop="20261116015500 -0300" channel="Sony">
+    <title lang="pt">Golpe Baixo</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
+    <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261115222000 -0300" stop="20261116001000 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Ameaça Subterrânea</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20261116001000 -0300" stop="20261116014500 -0300" channel="Sony">
-    <title lang="pt">Especial Lendas em Ação: Stallone: Cobra</title>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20261116014500 -0300" stop="20261116024000 -0300" channel="Sony">
+  <programme start="20261116015500 -0300" stop="20261116025000 -0300" channel="Sony">
     <title lang="pt">Grey's Anatomy</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261116024000 -0300" stop="20261116033500 -0300" channel="Sony">
+  <programme start="20261116025000 -0300" stop="20261116034000 -0300" channel="Sony">
     <title lang="pt">Grey's Anatomy</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261116033500 -0300" stop="20261116040500 -0300" channel="Sony">
+  <programme start="20261116034000 -0300" stop="20261116041000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116040500 -0300" stop="20261116043500 -0300" channel="Sony">
+  <programme start="20261116041000 -0300" stop="20261116044000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116043500 -0300" stop="20261116050500 -0300" channel="Sony">
+  <programme start="20261116044000 -0300" stop="20261116051000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116050500 -0300" stop="20261116060000 -0300" channel="Sony">
+  <programme start="20261116051000 -0300" stop="20261116060000 -0300" channel="Sony">
     <title lang="pt">The Night Shift</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261116060000 -0300" stop="20261116065000 -0300" channel="Sony">
+  <programme start="20261116060000 -0300" stop="20261116070000 -0300" channel="Sony">
     <title lang="pt">Bettys Diagnose</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261116065000 -0300" stop="20261116074000 -0300" channel="Sony">
+  <programme start="20261116070000 -0300" stop="20261116075500 -0300" channel="Sony">
     <title lang="pt">Bettys Diagnose</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261116074000 -0300" stop="20261116081000 -0300" channel="Sony">
+  <programme start="20261116075500 -0300" stop="20261116082500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116081000 -0300" stop="20261116084000 -0300" channel="Sony">
+  <programme start="20261116082500 -0300" stop="20261116085500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116084000 -0300" stop="20261116091000 -0300" channel="Sony">
+  <programme start="20261116085500 -0300" stop="20261116092500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116091000 -0300" stop="20261116094000 -0300" channel="Sony">
+  <programme start="20261116092500 -0300" stop="20261116095500 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Humor</category>
   </programme>
-  <programme start="20261116094000 -0300" stop="20261116101000 -0300" channel="Sony">
+  <programme start="20261116095500 -0300" stop="20261116102500 -0300" channel="Sony">
+    <title lang="pt">The Nanny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Humor</category>
+  </programme>
+  <programme start="20261116102500 -0300" stop="20261116105500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116101000 -0300" stop="20261116104000 -0300" channel="Sony">
+  <programme start="20261116105500 -0300" stop="20261116112500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116104000 -0300" stop="20261116111000 -0300" channel="Sony">
+  <programme start="20261116112500 -0300" stop="20261116115500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116111000 -0300" stop="20261116114000 -0300" channel="Sony">
+  <programme start="20261116115500 -0300" stop="20261116122500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116114000 -0300" stop="20261116141500 -0300" channel="Sony">
-    <title lang="pt">007 Contra Spectre</title>
+  <programme start="20261116122500 -0300" stop="20261116142500 -0300" channel="Sony">
+    <title lang="pt">O Vingador do Futuro</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261116141500 -0300" stop="20261116144500 -0300" channel="Sony">
+  <programme start="20261116142500 -0300" stop="20261116145500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116144500 -0300" stop="20261116151500 -0300" channel="Sony">
+  <programme start="20261116145500 -0300" stop="20261116152500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116151500 -0300" stop="20261116154500 -0300" channel="Sony">
+  <programme start="20261116152500 -0300" stop="20261116155500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116154500 -0300" stop="20261116161500 -0300" channel="Sony">
+  <programme start="20261116155500 -0300" stop="20261116162500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261116161500 -0300" stop="20261116181000 -0300" channel="Sony">
-    <title lang="pt">O Especialista</title>
+  <programme start="20261116162500 -0300" stop="20261116181000 -0300" channel="Sony">
+    <title lang="pt">De Volta Ao Jogo</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
   <programme start="20261116181000 -0300" stop="20261116200000 -0300" channel="Sony">
-    <title lang="pt">Ameaça Subterrânea</title>
+    <title lang="pt">Nico - Acima da Lei</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261116200000 -0300" stop="20261116214500 -0300" channel="Sony">
-    <title lang="pt">Segundas Retrô: Tubarão 3</title>
+  <programme start="20261116200000 -0300" stop="20261116224000 -0300" channel="Sony">
+    <title lang="pt">Segundas Retrô: Armageddon</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
+    <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261116214500 -0300" stop="20261116231500 -0300" channel="Sony">
-    <title lang="pt">M8 - Quando a Morte Socorre a Vida</title>
+  <programme start="20261116224000 -0300" stop="20261117002500 -0300" channel="Sony">
+    <title lang="pt">O Paciente - O Caso Tancredo Neves</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20261116231500 -0300" stop="20261117000500 -0300" channel="Sony">
-    <title lang="pt">Mamonas Assassinas</title>
-    <category lang="pt">Séries</category>
     <category lang="pt">Drama</category>
   </programme>
-  <programme start="20261117000500 -0300" stop="20261117015000 -0300" channel="Sony">
-    <title lang="pt">Tubarão 3</title>
+  <programme start="20261117002500 -0300" stop="20261117021500 -0300" channel="Sony">
+    <title lang="pt">Nico - Acima da Lei</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
+    <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261117015000 -0300" stop="20261117021400 -0300" channel="Sony">
+  <programme start="20261117021500 -0300" stop="20261117024500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117021400 -0300" stop="20261117024000 -0300" channel="Sony">
+  <programme start="20261117024500 -0300" stop="20261117031500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117024000 -0300" stop="20261117031000 -0300" channel="Sony">
+  <programme start="20261117031500 -0300" stop="20261117034500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117031000 -0300" stop="20261117034000 -0300" channel="Sony">
+  <programme start="20261117034500 -0300" stop="20261117041000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20261117034000 -0300" stop="20261117041000 -0300" channel="Sony">
-    <title lang="pt">The Nanny</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Humor</category>
   </programme>
   <programme start="20261117041000 -0300" stop="20261117044000 -0300" channel="Sony">
     <title lang="pt">The Nanny</title>
@@ -179002,47 +179372,52 @@ Os melhores restaurantes em hotéis espetaculares.</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117120000 -0300" stop="20261117141000 -0300" channel="Sony">
-    <title lang="pt">Esquadrão Suicida</title>
+  <programme start="20261117120000 -0300" stop="20261117144000 -0300" channel="Sony">
+    <title lang="pt">Armageddon</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261117141000 -0300" stop="20261117143500 -0300" channel="Sony">
+  <programme start="20261117144000 -0300" stop="20261117151000 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117143500 -0300" stop="20261117150000 -0300" channel="Sony">
+  <programme start="20261117151000 -0300" stop="20261117153500 -0300" channel="Sony">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Comédia</category>
   </programme>
-  <programme start="20261117150000 -0300" stop="20261117172000 -0300" channel="Sony">
-    <title lang="pt">O Ataque</title>
+  <programme start="20261117153500 -0300" stop="20261117160000 -0300" channel="Sony">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261117160000 -0300" stop="20261117162500 -0300" channel="Sony">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20261117162500 -0300" stop="20261117181500 -0300" channel="Sony">
+    <title lang="pt">Nico - Acima da Lei</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261117172000 -0300" stop="20261117190500 -0300" channel="Sony">
-    <title lang="pt">O Atirador: O Fim de Um Assassino</title>
+  <programme start="20261117181500 -0300" stop="20261117203500 -0300" channel="Sony">
+    <title lang="pt">O Protetor</title>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20261117190500 -0300" stop="20261117220000 -0300" channel="Sony">
-    <title lang="pt">John Wick 4: Baba Yaga</title>
+  <programme start="20261117203500 -0300" stop="20261117220000 -0300" channel="Sony">
+    <title lang="pt">O Debate</title>
     <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
   </programme>
   <programme start="20261117220000 -0300" stop="20261117230000 -0300" channel="Sony">
     <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
   </programme>
-  <programme start="20261117230000 -0300" stop="20261117235000 -0300" channel="Sony">
-    <title lang="pt">Shaking The Bar</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Reality Show</category>
-  </programme>
-  <programme start="20261117235000 -0300" stop="20261118004000 -0300" channel="Sony">
+  <programme start="20261117230000 -0300" stop="20261118000000 -0300" channel="Sony">
     <title lang="pt">Shaking The Bar</title>
     <category lang="pt">Séries</category>
     <category lang="pt">Reality Show</category>
@@ -182652,305 +183027,280 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261111230000 -0300" stop="20261112003000 -0300" channel="SporTV 2">
+  <programme start="20261111230000 -0300" stop="20261112010000 -0300" channel="SporTV 2">
     <title lang="pt">VT - Norde Vôlei x Cruzeiro</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261112003000 -0300" stop="20261112010000 -0300" channel="SporTV 2">
-    <title lang="pt">Hortência e Paula</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261112010000 -0300" stop="20261112013000 -0300" channel="SporTV 2">
-    <title lang="pt">Hortência e Paula</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261112013000 -0300" stop="20261112033000 -0300" channel="SporTV 2">
-    <title lang="pt">NBB: Brasília x Flamengo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Basquete</category>
-  </programme>
-  <programme start="20261112033000 -0300" stop="20261112053000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - São José x Campinas</title>
+  <programme start="20261112010000 -0300" stop="20261112030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Praia Clube x Goiás</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261112053000 -0300" stop="20261112073000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Goiás x Minas</title>
+  <programme start="20261112030000 -0300" stop="20261112050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Suzano x Guarulhos</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261112073000 -0300" stop="20261112095500 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Guarulhos x Cruzeiro</title>
+  <programme start="20261112050000 -0300" stop="20261112070000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Masculino</category>
+    <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261112095500 -0300" stop="20261112101000 -0300" channel="SporTV 2">
-    <title lang="pt">Heróis do Futuro: Rosamaria - Vôlei</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261112101000 -0300" stop="20261112104500 -0300" channel="SporTV 2">
-    <title lang="pt">Tênis de Mesa - Frankfurt, Alemanha - Ao Vivo</title>
+  <programme start="20261112070000 -0300" stop="20261112090000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Tênis De Mesa</category>
+    <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261112104500 -0300" stop="20261112112000 -0300" channel="SporTV 2">
-    <title lang="pt">Tênis de Mesa - Frankfurt, Alemanha - Ao Vivo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Tênis De Mesa</category>
-  </programme>
-  <programme start="20261112112000 -0300" stop="20261112120000 -0300" channel="SporTV 2">
-    <title lang="pt">Tênis de Mesa - Frankfurt, Alemanha - Ao Vivo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Tênis De Mesa</category>
-  </programme>
-  <programme start="20261112120000 -0300" stop="20261112140000 -0300" channel="SporTV 2">
+  <programme start="20261112090000 -0300" stop="20261112110000 -0300" channel="SporTV 2">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261112140000 -0300" stop="20261112161000 -0300" channel="SporTV 2">
+  <programme start="20261112110000 -0300" stop="20261112130000 -0300" channel="SporTV 2">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261112161000 -0300" stop="20261112181000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Goiás x Minas</title>
+  <programme start="20261112130000 -0300" stop="20261112133000 -0300" channel="SporTV 2">
+    <title lang="pt">Lendas - Usain Bolt</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261112133000 -0300" stop="20261112160000 -0300" channel="SporTV 2">
+    <title lang="pt">Turquia x Bélgica - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20261112160000 -0300" stop="20261112181000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Suzano x Guarulhos</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
   <programme start="20261112181000 -0300" stop="20261112203000 -0300" channel="SporTV 2">
-    <title lang="pt">Mackenzie x Minas - Ao Vivo</title>
+    <title lang="pt">Minas x Londrina - Ao Vivo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Feminino</category>
   </programme>
-  <programme start="20261112203000 -0300" stop="20261112211500 -0300" channel="SporTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261112211500 -0300" stop="20261112221500 -0300" channel="SporTV 2">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261112221500 -0300" stop="20261113013000 -0300" channel="SporTV 2">
-    <title lang="pt">NFL: Jacksonville Jaguars x Baltimore Ravens - Ao Vivo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol Americano</category>
-  </programme>
-  <programme start="20261113013000 -0300" stop="20261113043000 -0300" channel="SporTV 2">
-    <title lang="pt">NFL: Philadelphia Eagles x Washington Commanders</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol Americano</category>
-  </programme>
-  <programme start="20261113043000 -0300" stop="20261113063000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Mackenzie x Minas</title>
+  <programme start="20261112203000 -0300" stop="20261112230000 -0300" channel="SporTV 2">
+    <title lang="pt">Sesc Rj Flamengo x Fluminense - Ao Vivo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Feminino</category>
   </programme>
-  <programme start="20261113063000 -0300" stop="20261113091000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - São José x Campinas</title>
+  <programme start="20261112230000 -0300" stop="20261113010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Praia Clube x Goiás</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261113091000 -0300" stop="20261113094000 -0300" channel="SporTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113094000 -0300" stop="20261113101000 -0300" channel="SporTV 2">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113101000 -0300" stop="20261113104500 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261113104500 -0300" stop="20261113112000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261113112000 -0300" stop="20261113115500 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261113115500 -0300" stop="20261113123000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261113123000 -0300" stop="20261113153000 -0300" channel="SporTV 2">
-    <title lang="pt">NFL: Jacksonville Jaguars x Baltimore Ravens</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol Americano</category>
-  </programme>
-  <programme start="20261113153000 -0300" stop="20261113162000 -0300" channel="SporTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261113162000 -0300" stop="20261113164000 -0300" channel="SporTV 2">
-    <title lang="pt">Heróis do Futuro: Rosamaria - Vôlei</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261113164000 -0300" stop="20261113184000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Mackenzie x Minas</title>
+  <programme start="20261113010000 -0300" stop="20261113030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Minas x Londrina</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Feminino</category>
   </programme>
-  <programme start="20261113184000 -0300" stop="20261113204000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Goiás x Minas</title>
+  <programme start="20261113030000 -0300" stop="20261113050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Sesc Rj Flamengo x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261113050000 -0300" stop="20261113071000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Suzano x Guarulhos</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Vôlei Masculino</category>
   </programme>
-  <programme start="20261113204000 -0300" stop="20261113230000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261113071000 -0300" stop="20261113091000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Praia Clube x Goiás</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261113091000 -0300" stop="20261113110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Sesc Rj Flamengo x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261113110000 -0300" stop="20261113120000 -0300" channel="SporTV 2">
+    <title lang="pt">Tênis de Mesa - Quartas de Final - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261113120000 -0300" stop="20261113130000 -0300" channel="SporTV 2">
+    <title lang="pt">Tênis de Mesa - Quartas de Final - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261113130000 -0300" stop="20261113140000 -0300" channel="SporTV 2">
+    <title lang="pt">Tênis de Mesa - Quartas de Final - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261113140000 -0300" stop="20261113153000 -0300" channel="SporTV 2">
+    <title lang="pt">Tênis de Mesa - Quartas de Final - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261113153000 -0300" stop="20261113161000 -0300" channel="SporTV 2">
+    <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261113161000 -0300" stop="20261113181000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Sesc Rj Flamengo x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261113181000 -0300" stop="20261113203000 -0300" channel="SporTV 2">
+    <title lang="pt">Campinas x Cruzeiro - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261113203000 -0300" stop="20261113230000 -0300" channel="SporTV 2">
+    <title lang="pt">Osasco x Sesi-bauru - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
   </programme>
   <programme start="20261113230000 -0300" stop="20261114000000 -0300" channel="SporTV 2">
     <title lang="pt">Hello L.A</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261114000000 -0300" stop="20261114004500 -0300" channel="SporTV 2">
-    <title lang="pt">Faixa Olímpica: We Are King</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
+  <programme start="20261114000000 -0300" stop="20261114020000 -0300" channel="SporTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street - Tóquio, Japão - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Skate</category>
   </programme>
-  <programme start="20261114004500 -0300" stop="20261114010000 -0300" channel="SporTV 2">
-    <title lang="pt">Heróis do Futuro: Rosamaria - Vôlei</title>
-    <category lang="pt">Séries</category>
+  <programme start="20261114020000 -0300" stop="20261114051500 -0300" channel="SporTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street - Tóquio, Japão - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Skate</category>
+  </programme>
+  <programme start="20261114051500 -0300" stop="20261114054500 -0300" channel="SporTV 2">
+    <title lang="pt">Skate Para Sempre</title>
     <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261114010000 -0300" stop="20261114030000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Mackenzie x Minas</title>
+  <programme start="20261114054500 -0300" stop="20261114070000 -0300" channel="SporTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street - Tóquio, Japão - Ao Vivo</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
+    <category lang="pt">Skate</category>
   </programme>
-  <programme start="20261114030000 -0300" stop="20261114050000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Fluminense x Osasco</title>
+  <programme start="20261114070000 -0300" stop="20261114083000 -0300" channel="SporTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Masculina - Tóquio, Japão - Ao Vivo</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
+    <category lang="pt">Skate</category>
   </programme>
-  <programme start="20261114050000 -0300" stop="20261114080000 -0300" channel="SporTV 2">
-    <title lang="pt">NFL: Jacksonville Jaguars x Baltimore Ravens</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Futebol Americano</category>
-  </programme>
-  <programme start="20261114080000 -0300" stop="20261114084000 -0300" channel="SporTV 2">
-    <title lang="pt">Sem Bloqueio</title>
+  <programme start="20261114083000 -0300" stop="20261114090000 -0300" channel="SporTV 2">
+    <title lang="pt">Olheiros Olímpicos</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261114084000 -0300" stop="20261114091500 -0300" channel="SporTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114091500 -0300" stop="20261114095500 -0300" channel="SporTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114095500 -0300" stop="20261114113000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Fluminense x Osasco</title>
+  <programme start="20261114090000 -0300" stop="20261114110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Campinas x Cruzeiro</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261114110000 -0300" stop="20261114113000 -0300" channel="SporTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
   <programme start="20261114113000 -0300" stop="20261114140000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114140000 -0300" stop="20261114150000 -0300" channel="SporTV 2">
-    <title lang="pt">Finais Clássicas: Futebol Masculino Rio 2016</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114150000 -0300" stop="20261114173000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114173000 -0300" stop="20261114181000 -0300" channel="SporTV 2">
-    <title lang="pt">Lendas - Zagallo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114181000 -0300" stop="20261114203000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114203000 -0300" stop="20261114230000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Sesi Bauru x Pinheiros</title>
+    <title lang="pt">Conmebol Libertadores Feminina de Futsal - Ao Vivo</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
+    <category lang="pt">Futebol de Salão</category>
   </programme>
-  <programme start="20261114230000 -0300" stop="20261115010000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Brasília x Praia Clube</title>
+  <programme start="20261114140000 -0300" stop="20261114154000 -0300" channel="SporTV 2">
+    <title lang="pt">Rampa do Gui: Finais - Ao Vivo</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
+    <category lang="pt">Skate</category>
   </programme>
-  <programme start="20261115010000 -0300" stop="20261115060000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115060000 -0300" stop="20261115063000 -0300" channel="SporTV 2">
-    <title lang="pt">Sem Bloqueio</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115063000 -0300" stop="20261115083000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Sesi Bauru x Pinheiros</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
-  </programme>
-  <programme start="20261115083000 -0300" stop="20261115103000 -0300" channel="SporTV 2">
-    <title lang="pt">VT - Fluminense x Osasco</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Vôlei Feminino</category>
-  </programme>
-  <programme start="20261115103000 -0300" stop="20261115110000 -0300" channel="SporTV 2">
-    <title lang="pt">Fome de Medalha</title>
+  <programme start="20261114154000 -0300" stop="20261114161000 -0300" channel="SporTV 2">
+    <title lang="pt">Skate Para Sempre</title>
     <category lang="pt">Documentário</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261115110000 -0300" stop="20261115143000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
+  <programme start="20261114161000 -0300" stop="20261114181000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Osasco x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261114181000 -0300" stop="20261114203000 -0300" channel="SporTV 2">
+    <title lang="pt">Montes Claros x Sesi-Bauru - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261114203000 -0300" stop="20261114230000 -0300" channel="SporTV 2">
+    <title lang="pt">Brusque x Brasília - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261114230000 -0300" stop="20261115000000 -0300" channel="SporTV 2">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261115143000 -0300" stop="20261115180000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
+  <programme start="20261115000000 -0300" stop="20261115020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Montes Claros x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261115020000 -0300" stop="20261115040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Brusque x Brasília</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261115040000 -0300" stop="20261115060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Osasco x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20261115060000 -0300" stop="20261115080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Campinas x Cruzeiro</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261115080000 -0300" stop="20261115100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Montes Claros x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261115100000 -0300" stop="20261115104000 -0300" channel="SporTV 2">
+    <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261115104000 -0300" stop="20261115130000 -0300" channel="SporTV 2">
+    <title lang="pt">Monte Carmelo x Praia Clube - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261115130000 -0300" stop="20261115150000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Montes Claros x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
+  </programme>
+  <programme start="20261115150000 -0300" stop="20261115173000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Brasil Feminina de Futebol</title>
+    <category lang="pt">Esporte</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261115180000 -0300" stop="20261115212500 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
+  <programme start="20261115173000 -0300" stop="20261115180000 -0300" channel="SporTV 2">
+    <title lang="pt">Pós-Jogo</title>
+    <category lang="pt">Esporte</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20261115212500 -0300" stop="20261115222000 -0300" channel="SporTV 2">
+  <programme start="20261115180000 -0300" stop="20261115210500 -0300" channel="SporTV 2">
+    <title lang="pt">NFL - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261115210500 -0300" stop="20261115222000 -0300" channel="SporTV 2">
     <title lang="pt">Aquecimento sportv - Ao Vivo</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
   <programme start="20261115222000 -0300" stop="20261116013000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+    <title lang="pt">NFL: Pittsburgh Steelers x Cincinnati Bengals - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
   </programme>
   <programme start="20261116013000 -0300" stop="20261116043000 -0300" channel="SporTV 2">
     <title lang="pt">NFL: Jacksonville Jaguars x Baltimore Ravens</title>
@@ -182978,9 +183328,9 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esportivo</category>
   </programme>
   <programme start="20261116140000 -0300" stop="20261116163000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+    <title lang="pt">La Union x Stein Cascavel - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
   </programme>
   <programme start="20261116163000 -0300" stop="20261116170000 -0300" channel="SporTV 2">
     <title lang="pt">Lendas - Zagallo</title>
@@ -183008,9 +183358,9 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Tênis De Mesa</category>
   </programme>
   <programme start="20261116204000 -0300" stop="20261116230000 -0300" channel="SporTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+    <title lang="pt">Campinas x Sesi-bauru - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Masculino</category>
   </programme>
   <programme start="20261116230000 -0300" stop="20261117010000 -0300" channel="SporTV 2">
     <title lang="pt">VT - Sesi Bauru x Pinheiros</title>
@@ -183042,12 +183392,12 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol Americano</category>
   </programme>
-  <programme start="20261117130000 -0300" stop="20261117140000 -0300" channel="SporTV 2">
+  <programme start="20261117130000 -0300" stop="20261117141500 -0300" channel="SporTV 2">
     <title lang="pt">Finais Clássicas: Futebol Masculino Rio 2016</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261117140000 -0300" stop="20261117163000 -0300" channel="SporTV 2">
+  <programme start="20261117141500 -0300" stop="20261117163000 -0300" channel="SporTV 2">
     <title lang="pt">Programação sportv 2</title>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
@@ -183127,23 +183477,28 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261111200000 -0300" stop="20261111220000 -0300" channel="SporTV 3">
+  <programme start="20261111200000 -0300" stop="20261111212000 -0300" channel="SporTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Portugal</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261111220000 -0300" stop="20261112000000 -0300" channel="SporTV 3">
+  <programme start="20261111212000 -0300" stop="20261111231500 -0300" channel="SporTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Portugal</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261112000000 -0300" stop="20261112015500 -0300" channel="SporTV 3">
+  <programme start="20261111231500 -0300" stop="20261112010000 -0300" channel="SporTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Portugal</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261112015500 -0300" stop="20261112035000 -0300" channel="SporTV 3">
+  <programme start="20261112010000 -0300" stop="20261112022000 -0300" channel="SporTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Portugal</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
+  </programme>
+  <programme start="20261112022000 -0300" stop="20261112035000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
@@ -183187,250 +183542,270 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esporte</category>
     <category lang="pt">Tênis De Mesa</category>
   </programme>
-  <programme start="20261112140000 -0300" stop="20261112160000 -0300" channel="SporTV 3">
-    <title lang="pt">Amistoso Internacional de Futebol - Ao Vivo</title>
+  <programme start="20261112140000 -0300" stop="20261112163000 -0300" channel="SporTV 3">
+    <title lang="pt">Malta x Essuatíni - Ao Vivo</title>
     <category lang="pt">Esporte</category>
-    <category lang="pt">Diversos</category>
+    <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20261112160000 -0300" stop="20261112200000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261112163000 -0300" stop="20261112170500 -0300" channel="SporTV 3">
+    <title lang="pt">Lendas - Romário</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261112200000 -0300" stop="20261112230000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261112170500 -0300" stop="20261112173500 -0300" channel="SporTV 3">
+    <title lang="pt">Lendas - Pelé - Parte 1</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261112230000 -0300" stop="20261113004000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
+  <programme start="20261112173500 -0300" stop="20261112193000 -0300" channel="SporTV 3">
+    <title lang="pt">NBB: Franca x Cruzeiro</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
   </programme>
-  <programme start="20261113004000 -0300" stop="20261113024500 -0300" channel="SporTV 3">
+  <programme start="20261112193000 -0300" stop="20261112220000 -0300" channel="SporTV 3">
+    <title lang="pt">NBB: Corinthians x Pinheiros - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20261112220000 -0300" stop="20261112223000 -0300" channel="SporTV 3">
+    <title lang="pt">Hortência e Paula</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261112223000 -0300" stop="20261112230000 -0300" channel="SporTV 3">
+    <title lang="pt">Hortência e Paula</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261112230000 -0300" stop="20261113000000 -0300" channel="SporTV 3">
+    <title lang="pt">WSL Replay</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
+  </programme>
+  <programme start="20261113000000 -0300" stop="20261113020500 -0300" channel="SporTV 3">
+    <title lang="pt">Diamond League - 13ª Etapa - Silésia, Polônia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+  </programme>
+  <programme start="20261113020500 -0300" stop="20261113040500 -0300" channel="SporTV 3">
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+  </programme>
+  <programme start="20261113040500 -0300" stop="20261113061000 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261113024500 -0300" stop="20261113045500 -0300" channel="SporTV 3">
+  <programme start="20261113061000 -0300" stop="20261113082000 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261113045500 -0300" stop="20261113054000 -0300" channel="SporTV 3">
-    <title lang="pt">Amazing Riders</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113054000 -0300" stop="20261113061500 -0300" channel="SporTV 3">
-    <title lang="pt">Amazing Riders</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113061500 -0300" stop="20261113070000 -0300" channel="SporTV 3">
-    <title lang="pt">Amazing Riders</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113070000 -0300" stop="20261113090000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261113090000 -0300" stop="20261113105000 -0300" channel="SporTV 3">
+  <programme start="20261113082000 -0300" stop="20261113101000 -0300" channel="SporTV 3">
     <title lang="pt">Fórmula 1 - GP do Bahrein</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261113105000 -0300" stop="20261113133000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP da Cidade do México</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261113133000 -0300" stop="20261113153000 -0300" channel="SporTV 3">
+  <programme start="20261113101000 -0300" stop="20261113121000 -0300" channel="SporTV 3">
     <title lang="pt">Fórmula 1 - GP de São Paulo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261113153000 -0300" stop="20261113173000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP do EUA</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261113173000 -0300" stop="20261113180000 -0300" channel="SporTV 3">
-    <title lang="pt">Lendas - Ayrton Senna</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261113180000 -0300" stop="20261113200000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261113200000 -0300" stop="20261114025500 -0300" channel="SporTV 3">
-    <title lang="pt">Ginástica de Trampolim: Finais - Nanquim, China</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Ginástica Olímpica</category>
-  </programme>
-  <programme start="20261114025500 -0300" stop="20261114080000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114080000 -0300" stop="20261114090000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP do Azerbaijão - Melhores Momentos</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261114090000 -0300" stop="20261114100000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Treino Livre 2</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261114100000 -0300" stop="20261114103000 -0300" channel="SporTV 3">
-    <title lang="pt">Lendas - Ayrton Senna</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114103000 -0300" stop="20261114113000 -0300" channel="SporTV 3">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114113000 -0300" stop="20261114130000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114130000 -0300" stop="20261114150000 -0300" channel="SporTV 3">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114150000 -0300" stop="20261114163000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261114163000 -0300" stop="20261114173000 -0300" channel="SporTV 3">
-    <title lang="pt">Na Ponta Dos Dedos - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261114173000 -0300" stop="20261114201000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP da Cidade do México</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261114201000 -0300" stop="20261114211000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Treino Livre 3</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261114211000 -0300" stop="20261114221000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Classificação</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261114221000 -0300" stop="20261115001000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP do EUA</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Automobilismo</category>
-  </programme>
-  <programme start="20261115001000 -0300" stop="20261115005500 -0300" channel="SporTV 3">
+  <programme start="20261113121000 -0300" stop="20261113125500 -0300" channel="SporTV 3">
     <title lang="pt">Acesso Total - Ippon</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261115005500 -0300" stop="20261115013000 -0300" channel="SporTV 3">
-    <title lang="pt">De Corpo e Alma</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115013000 -0300" stop="20261115043000 -0300" channel="SporTV 3">
-    <title lang="pt">One Fight Night 49</title>
+  <programme start="20261113125500 -0300" stop="20261113153000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix De Judô - Finais - Zagreb, Croácia - Ao Vivo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20261115043000 -0300" stop="20261115050500 -0300" channel="SporTV 3">
-    <title lang="pt">De Corpo e Alma</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115050500 -0300" stop="20261115070000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP do Bahrein</title>
+  <programme start="20261113153000 -0300" stop="20261113163000 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura - Melhores Momentos</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261115070000 -0300" stop="20261115080000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115080000 -0300" stop="20261115090000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115090000 -0300" stop="20261115100000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115100000 -0300" stop="20261115110000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115110000 -0300" stop="20261115111500 -0300" channel="SporTV 3">
-    <title lang="pt">Heróis do Futuro: Hugo Calderano - Tênis de Mesa Masculino</title>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20261115111500 -0300" stop="20261115114500 -0300" channel="SporTV 3">
-    <title lang="pt">Lendas - Ayrton Senna</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115114500 -0300" stop="20261115140000 -0300" channel="SporTV 3">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115140000 -0300" stop="20261115160000 -0300" channel="SporTV 3">
-    <title lang="pt">Programação sportv 3</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20261115160000 -0300" stop="20261115170000 -0300" channel="SporTV 3">
-    <title lang="pt">Na Ponta Dos Dedos - Ao Vivo</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20261115170000 -0300" stop="20261115180000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Treino Livre 2</title>
+  <programme start="20261113163000 -0300" stop="20261113164500 -0300" channel="SporTV 3">
+    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261115180000 -0300" stop="20261115190000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Treino Livre 3</title>
+  <programme start="20261113164500 -0300" stop="20261113190000 -0300" channel="SporTV 3">
+    <title lang="pt">Conmebol Libertadores Feminina de Futsal - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20261113190000 -0300" stop="20261113200000 -0300" channel="SporTV 3">
+    <title lang="pt">Liga Showbol 2026: Final Feminina - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261113200000 -0300" stop="20261113210000 -0300" channel="SporTV 3">
+    <title lang="pt">Liga Showbol 2026: Final Masculina - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261113210000 -0300" stop="20261113230000 -0300" channel="SporTV 3">
+    <title lang="pt">Conmebol Libertadores Feminina de Futsal - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20261113230000 -0300" stop="20261113231500 -0300" channel="SporTV 3">
+    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261115190000 -0300" stop="20261115200000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP de São Paulo - Classificação</title>
+  <programme start="20261113231500 -0300" stop="20261114011500 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP do EUA</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261115200000 -0300" stop="20261115220000 -0300" channel="SporTV 3">
+  <programme start="20261114011500 -0300" stop="20261114035500 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP da Cidade do México</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20261114035500 -0300" stop="20261114055500 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20261114055500 -0300" stop="20261114075500 -0300" channel="SporTV 3">
     <title lang="pt">Fórmula 1 - GP de São Paulo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
   </programme>
-  <programme start="20261115220000 -0300" stop="20261116004000 -0300" channel="SporTV 3">
-    <title lang="pt">Fórmula 1 - GP da Cidade do México</title>
+  <programme start="20261114075500 -0300" stop="20261114090000 -0300" channel="SporTV 3">
+    <title lang="pt">Tênis de Mesa - Semifinal - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261114090000 -0300" stop="20261114100000 -0300" channel="SporTV 3">
+    <title lang="pt">Tênis de Mesa - Semifinal - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261114100000 -0300" stop="20261114110000 -0300" channel="SporTV 3">
+    <title lang="pt">Tênis de Mesa - Semifinal - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261114110000 -0300" stop="20261114120000 -0300" channel="SporTV 3">
+    <title lang="pt">Tênis de Mesa - Semifinal - Istanbul, Turquia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Tênis De Mesa</category>
+  </programme>
+  <programme start="20261114120000 -0300" stop="20261114121000 -0300" channel="SporTV 3">
+    <title lang="pt">Heróis do Futuro: Hugo Calderano - Tênis de Mesa Masculino</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20261114121000 -0300" stop="20261114125500 -0300" channel="SporTV 3">
+    <title lang="pt">Acesso Total - Ippon</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261114125500 -0300" stop="20261114150000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix De Judô - Finais - Zagreb, Croácia - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20261114150000 -0300" stop="20261114154500 -0300" channel="SporTV 3">
+    <title lang="pt">Acesso Total - Ippon</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261114154500 -0300" stop="20261114160000 -0300" channel="SporTV 3">
+    <title lang="pt">Fome de Luta: Charles do Bronx</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261114160000 -0300" stop="20261114190000 -0300" channel="SporTV 3">
+    <title lang="pt">Programação sportv</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261114190000 -0300" stop="20261114220000 -0300" channel="SporTV 3">
+    <title lang="pt">Programação sportv</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261114220000 -0300" stop="20261115010000 -0300" channel="SporTV 3">
+    <title lang="pt">Programação sportv</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20261115010000 -0300" stop="20261115040000 -0300" channel="SporTV 3">
+    <title lang="pt">One Fight Night 49</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20261115040000 -0300" stop="20261115062500 -0300" channel="SporTV 3">
+    <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Especial Brasileiros</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
+  </programme>
+  <programme start="20261115062500 -0300" stop="20261115093000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
+  </programme>
+  <programme start="20261115093000 -0300" stop="20261115112000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
+  </programme>
+  <programme start="20261115112000 -0300" stop="20261115115500 -0300" channel="SporTV 3">
+    <title lang="pt">Meu Nome É João Chianca</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261115115500 -0300" stop="20261115122500 -0300" channel="SporTV 3">
+    <title lang="pt">A Onda</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261115122500 -0300" stop="20261115143000 -0300" channel="SporTV 3">
+    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+  </programme>
+  <programme start="20261115143000 -0300" stop="20261115163500 -0300" channel="SporTV 3">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+  </programme>
+  <programme start="20261115163500 -0300" stop="20261115185000 -0300" channel="SporTV 3">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Atletismo</category>
+  </programme>
+  <programme start="20261115185000 -0300" stop="20261115192500 -0300" channel="SporTV 3">
+    <title lang="pt">Lendas - Ayrton Senna</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261115192500 -0300" stop="20261115213000 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP de São Paulo</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20261115213000 -0300" stop="20261115223000 -0300" channel="SporTV 3">
+    <title lang="pt">Fórmula 1 - GP de São Paulo - Melhores Momentos</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20261115223000 -0300" stop="20261115233000 -0300" channel="SporTV 3">
+    <title lang="pt">Na Ponta dos Dedos</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20261115233000 -0300" stop="20261116004000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Portugal</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
   </programme>
   <programme start="20261116004000 -0300" stop="20261116024500 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
@@ -183497,62 +183872,57 @@ Finn é chamada para averiguar um acidente de carro com uma fatalidade e fica ch
     <category lang="pt">Esporte</category>
     <category lang="pt">Ginástica Olímpica</category>
   </programme>
-  <programme start="20261117000000 -0300" stop="20261117030000 -0300" channel="SporTV 3">
+  <programme start="20261117000000 -0300" stop="20261117010000 -0300" channel="SporTV 3">
     <title lang="pt">One Fight Night 49</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20261117030000 -0300" stop="20261117045500 -0300" channel="SporTV 3">
+  <programme start="20261117010000 -0300" stop="20261117040000 -0300" channel="SporTV 3">
+    <title lang="pt">One Fight Night 49</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20261117040000 -0300" stop="20261117062500 -0300" channel="SporTV 3">
     <title lang="pt">Circuito Mundial De Surfe - Melhores Momentos - Especial Brasileiros</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261117045500 -0300" stop="20261117054000 -0300" channel="SporTV 3">
-    <title lang="pt">Amazing Riders</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
+  <programme start="20261117062500 -0300" stop="20261117093000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261117054000 -0300" stop="20261117061500 -0300" channel="SporTV 3">
-    <title lang="pt">Amazing Riders</title>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Esportivo</category>
+  <programme start="20261117093000 -0300" stop="20261117112000 -0300" channel="SporTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Surfe</category>
   </programme>
-  <programme start="20261117061500 -0300" stop="20261117065000 -0300" channel="SporTV 3">
+  <programme start="20261117112000 -0300" stop="20261117115500 -0300" channel="SporTV 3">
     <title lang="pt">Meu Nome É João Chianca</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261117065000 -0300" stop="20261117084500 -0300" channel="SporTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Surfe</category>
+  <programme start="20261117115500 -0300" stop="20261117122500 -0300" channel="SporTV 3">
+    <title lang="pt">A Onda</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20261117084500 -0300" stop="20261117104500 -0300" channel="SporTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Surfe</category>
-  </programme>
-  <programme start="20261117104500 -0300" stop="20261117124500 -0300" channel="SporTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
-    <category lang="pt">Esporte</category>
-    <category lang="pt">Surfe</category>
-  </programme>
-  <programme start="20261117124500 -0300" stop="20261117144500 -0300" channel="SporTV 3">
+  <programme start="20261117122500 -0300" stop="20261117143000 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261117144500 -0300" stop="20261117164500 -0300" channel="SporTV 3">
+  <programme start="20261117143000 -0300" stop="20261117163500 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261117164500 -0300" stop="20261117185500 -0300" channel="SporTV 3">
+  <programme start="20261117163500 -0300" stop="20261117185000 -0300" channel="SporTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Atletismo</category>
   </programme>
-  <programme start="20261117185500 -0300" stop="20261117192500 -0300" channel="SporTV 3">
+  <programme start="20261117185000 -0300" stop="20261117192500 -0300" channel="SporTV 3">
     <title lang="pt">Lendas - Ayrton Senna</title>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
